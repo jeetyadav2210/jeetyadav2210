@@ -12,7 +12,8 @@ Building scalable APIs, robust backend services, and reliable software solutions
 💬 Ask me about Node.js, NestJS, PostgreSQL, MongoDB, Prisma, and Redis  
 ⚡ Fun fact: I enjoy turning complex business requirements into reliable backend solutions!
 
-# 🌐 Socials:
+#🌐 **Connect With Me**: 
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Do6fis39i/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeet_yadav_022/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitendra-yaduvanshi-48b2051ba/)
@@ -60,25 +61,26 @@ Building scalable APIs, robust backend services, and reliable software solutions
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetyadav2210&show_icons=true&theme=tokyonight&hide_border=true" alt="Jitendra's GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=jeetyadav2210&show_icons=true&theme=tokyonight&hide_border=true" alt="Jitendra's GitHub Stats" width="100%"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jeetyadav2210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetyadav2210&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=jeetyadav2210&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="100%"/>
 
----
+</td>
+</table>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-⭐ Check out my repositories and feel free to connect or collaborate.
+👀 Profile Views
 
+
+
+💙 Thanks for visiting my profile!
+
+⭐ Explore my repositories, share ideas, and let's build something awesome together!
 ![Profile Views](https://komarev.com/ghpvc/?username=jeetyadav2210&color=0e75b6&style=for-the-badge)
