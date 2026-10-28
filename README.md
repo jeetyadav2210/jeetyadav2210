@@ -60,18 +60,25 @@ Building scalable APIs, robust backend services, and reliable software solutions
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jeetyadav2210&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetyadav2210&show_icons=true&theme=tokyonight&hide_border=true" alt="Jitendra's GitHub Stats" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=jeetyadav2210&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jeetyadav2210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetyadav2210&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetyadav2210&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 💙 Thanks for visiting my profile!
-
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 ⭐ Check out my repositories and feel free to connect or collaborate.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeetyadav2210&color=0e75b6&style=for-the-badge)
